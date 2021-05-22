@@ -1,0 +1,9 @@
+~game_shop
+~game_gamble
+~game_sell_directly
+~game_auction
+~game_show_auctionhouse
+~game_help
+~game_invest
+~game_profile
+~game_notifications
